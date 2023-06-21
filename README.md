@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <html>
   <!--  HEADER START  -->
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&animation=fadeIn&section=header&text=Code%20Vision%20Into%20Reality%20🕹️&fontSize=50&fontColor=FFFFFF&reversal=true" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&animation=fadeIn&section=header&text=Let's%20Code%20Vision%20Into%20Reality%20🕹️&fontSize=50&fontColor=FFFFFF&reversal=true" />
   </p>
   <!--  HEADER END  -->
 
