@@ -18,6 +18,8 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&animation=fadeIn&section=header&text=Code%20Vision%20Into%20Reality%20🕹️&fontSize=50&fontColor=FFFFFF&reversal=true" />
   </p>
   <!--  HEADER END  -->
+
+  ![gitartwork](gitartwork.svg)
   
   <!--  ABOUT ME START  -->
   <h2>
