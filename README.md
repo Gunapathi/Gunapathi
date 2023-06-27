@@ -70,6 +70,7 @@ education: [
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gunapathi&repo=expressjs-basics)](https://github.com/Gunapathi/expressjs-basics)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gunapathi&repo=react_spotify_clone)](https://github.com/Gunapathi/react_spotify_clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gunapathi&repo=python-basic-games)](https://github.com/Gunapathi/python-basic-games)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gunapathi&repo=fighting-game)](https://github.com/Gunapathi/fighting-game)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gunapathi&repo=react_yt_dashboard)](https://github.com/Gunapathi/react_yt_dashboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gunapathi&repo=react-threejs-boilerplate)](https://github.com/Gunapathi/react-threejs-boilerplate)
