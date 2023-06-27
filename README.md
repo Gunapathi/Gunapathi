@@ -111,7 +111,7 @@ education: [
 <summary>Restaurant App with Google Auth</summary>
 
 -   Butil on React using Tailwind & G-Auth for login and cart reg purpose
--   [Visit my Portfolio](https://react-restaurant-g-auth.netlify.app/)
+-   [Let's make some order](https://react-restaurant-g-auth.netlify.app/)
 </details>
 
 ---
@@ -120,7 +120,7 @@ education: [
 <summary>Spotify Clone using Firebase Storage</summary>
 
 -   Butil on React using Tailwind and Firebase Storage for Loading Song data
--   [Visit my Portfolio](https://react-spotify-firebase-clone.netlify.app/)
+-   [Hear some music](https://react-spotify-firebase-clone.netlify.app/)
 </details>
 
 ---
@@ -129,7 +129,43 @@ education: [
 <summary>YT Dashboard</summary>
 
 -   Butil on React using Tailwind
--   [Visit my Portfolio](https://react-yt-dashboard.netlify.app/)
+-   [Visit the dashboard](https://react-yt-dashboard.netlify.app/)
+</details>
+
+---
+
+<details>
+<summary>AnimatDo</summary>
+
+-   Online CSS Generation Tool for few set of style properties built on Angular 13 & PWA
+-   [Wanna look Around](https://animatdo-89fbf.web.app/)
+</details>
+
+---
+
+<details>
+<summary>JS Samurai</summary>
+
+-   Online PVP Sword Fighting Game
+-   [Play around](https://swardigo.netlify.app)
+</details>
+
+---
+
+<details>
+<summary>Tech Stack</summary>
+
+-   Wordpress website build on elementor pro to try out self-learning animation and UI's
+-   [Visit Website](https://tech-stack.sksmovies.com/)
+</details>
+
+---
+
+<details>
+<summary>Digital Builders</summary>
+
+-   Digital Builder is a website built on wordpress to experice the single page template on wordpress.
+-   [Visit Website](https://digital-builder.sksmovies.com/)
 </details>
 
 ---
